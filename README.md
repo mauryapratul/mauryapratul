@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Pratul
-- 👀 I’m interested in web development
-- 🌱 I’m currently looking for a job
 - 📫 How to reach me  at pratulmaurya@gmail.com
 
 <!---
